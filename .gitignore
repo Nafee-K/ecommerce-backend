@@ -36,3 +36,6 @@ Thumbs.db
 
 # Build folders
 build/
+
+# Misc
+HELP.md
